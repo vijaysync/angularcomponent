@@ -1,0 +1,62 @@
+.col-sm-4 {
+    border: 1px solid navy;
+    text-align: center;
+}
+
+.grid {
+    text-decoration: none;
+    border: none;
+    text-align: center;
+  margin-top: 7px;
+}
+
+.grid .active {
+    color: white;
+}
+
+.inborder:focus {
+    outline: none;
+    border-bottom: 2px solid red;
+    margin-bottom: 6px;
+    background-color: ghostwhite;
+    border-radius: 30px;
+}
+
+.editCLs{
+    text-decoration: none;
+    border: none;
+    margin: 9px 66px;
+}
+
+.editCLs:focus{
+    outline: none
+}
+
+.mystyle{
+    background-color: red;
+}
+
+.validate
+{
+    margin-left: 93px;
+}
+
+.visible{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
+
+.setB{
+    border-left: 50px solid red
+}
+
+.mapStyle{
+    margin: 5px 200px;
+    background-color: bisque;
+    color: black;
+    border-radius: 2px;
+    
+}
